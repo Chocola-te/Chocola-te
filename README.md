@@ -2,7 +2,7 @@
   
   <!-- ## Hi there 👋 -->
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello%20there%20😋&color=gradient)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hello%20there%20🌞&color=gradient)
   
 </div>
 
